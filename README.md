@@ -23,7 +23,7 @@
   <li>Java</li>
   <li>C++</li>
 </ul>
-<p>I also have experience with some custom frameworks and some of the more well-known frameworks like:</p>
+<p>I also have experience with some custom frameworks and some of the more well-known FiveM frameworks like:</p>
 <ul>
   <li>QBCore</li>
   <li>Ox_Core</li>
