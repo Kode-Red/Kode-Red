@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there! I'm Kode-Red</h1>
 <p align="center">
-  <img width="250" height="250" src="[https://i.ibb.co/7V2r6TD/smallpic.png](https://i.ibb.co/pfYbzX6/idle.png)">
+  <img width="250" height="250" src="https://i.ibb.co/pfYbzX6/idle.png">
 </p>
 I'm a FiveM roleplayer/developer with a passion for creating immersive roleplay experiences. I specialize in creating custom interiors, scripts, and UI elements that add an extra layer of depth to roleplay.
 
