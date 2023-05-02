@@ -12,9 +12,8 @@
 <p>I have experience with several programming languages and frameworks, including:</p>
 <ul>
   <li>JavaScript</li>
-  <li>React</li>
+  <li>React ( Basics )</li>
   <li>Vue</li>
-  <li>Angular</li>
   <li>TypeScript</li>
   <li>Lua</li>
   <li>HTML</li>
