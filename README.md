@@ -4,7 +4,7 @@
 </p>
 
 <p>I'm a FiveM roleplayer and developer with a passion for creating immersive roleplay experiences. I specialize in creating custom interiors, scripts, and UI elements that add an extra layer of depth to roleplay.</p>
-<p> Currently Developing for Nonstop RP and Solid Dove RP</p>
+
 
 <h2>Currently Learning 🌱</h2>
 <p>I'm always looking to expand my skillset, and right now I'm focusing on Angular development. I'm excited to see how this new knowledge will help me create even more impressive projects in the future.</p>
